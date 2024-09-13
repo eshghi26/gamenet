@@ -1,0 +1,64 @@
+def COLOR_MAP = [
+    'SUCCESS': 'good', 
+    'FAILURE': 'danger',
+]
+pipeline {
+    agent any
+
+    environment {
+        DOCKERHUB_CREDENTIALS = 'dockerhubcred'
+        DOCKERHUB_REPO = 'eshghi26/gamenetpanel'
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git url: 'git@github.com:eshghi26/gamenet.git',
+                branch: 'main',
+                credentialsId: 'mygitubpk'
+            }
+        }
+        
+        stage('Build Docker Image') {
+            steps {
+                script {
+                    dockerImage = docker.build( DOCKERHUB_REPO + ":V$BUILD_NUMBER", "./panel")
+                }
+            }
+        }
+        
+        stage('Push to Docker Hub') {
+            steps {
+                script {
+                    docker.withRegistry('', DOCKERHUB_CREDENTIALS) {
+                        dockerImage.push("V$BUILD_NUMBER")
+                        dockerImage.push('latest')
+                    }
+                }
+            }
+        }
+
+        stage('Delete image from Jenkins') {
+            steps {
+                sh "docker rmi $DOCKERHUB_REPO:V$BUILD_NUMBER $DOCKERHUB_REPO:latest"
+            }
+        }
+
+        stage('Deploy to Kubernetes') {
+            agent {label 'KOPS'}
+                steps {
+                // Put this command in sudoers file jenkins ALL=(ALL) NOPASSWD: /usr/local/bin/helm
+                sh "sudo helm upgrade --install --force gamenet-stack helm/gamenetcharts"
+                }
+        } 
+    }
+
+    post {
+        always {
+            echo 'Slack Notifications.'
+            slackSend channel: '#java-project',
+                color: COLOR_MAP[currentBuild.currentResult],
+                message: "*${currentBuild.currentResult}:* Job ${env.JOB_NAME} build ${env.BUILD_NUMBER} \n More info at: ${env.BUILD_URL}"
+        }
+    }
+}
