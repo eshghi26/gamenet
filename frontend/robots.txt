@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /panel/
+Disallow: /lobby/
+Disallow: /play/
+Disallow: /replay/
+Disallow: /tournament/
+Disallow: /verification/
+Disallow: /paymentResult/
+Disallow: /paymentVerify/
+Sitemap: http://pokernet.me/sitemap.xml

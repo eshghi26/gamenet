@@ -1,0 +1,795 @@
+{
+  "site_name": "Poker Net",
+  "home": "Home",
+  "control_panel": "Control Panel",
+  "tutorial": "Tutorial",
+  "tutorials": "Tutorials",
+  "poker_tutorial": "Poker Tutorial",
+  "poker_terms": "Poker Terms",
+  "rules": "Rules",
+  "about": "About",
+  "contact": "Contact",
+  "terms_and_conditions": "Terms and Conditions",
+  "faq": "Faq",
+  "login": "Login",
+  "logout": "Logout",
+  "register": "Register",
+  "unregister": "Unregister",
+  "email": "Email",
+  "subscribe": "Subscribe",
+  "person": "Person",
+  "game": "Game",
+  "games": "Games",
+  "winner": "Winner",
+  "winners": "Winners",
+  "game_tables": "Game tables",
+  "play": "play",
+  "start_game": "Start game",
+  "table": "Table",
+  "tables": "Tables",
+  "tournament": "Tournament",
+  "tournaments": "Tournaments",
+  "fight": "Fight",
+  "fights": "Fights",
+  "fight_for_money": "Fight for money",
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "payment": "Payment",
+  "bank": "Bank",
+  "account": "Account",
+  "account_balance": "Account balance",
+  "card": "Card",
+  "card_number": "Card number",
+  "amount_placeholder": "Amount ({{currency}})",
+  "lets_go": "Let's Go",
+  "dashboard": "Dashboard",
+  "notifications": "Notifications",
+  "profile": "Profile",
+  "invite_friends": "Invite friends",
+  "transactions": "Transactions",
+  "add": "Add",
+  "send": "Send",
+  "edit": "Edit",
+  "update": "Update",
+  "change": "Change",
+  "save": "Save",
+  "delete": "Delete",
+  "exit": "Exit",
+  "cancel": "Cancel",
+  "open": "Open",
+  "close": "Close",
+  "acts": "Acts",
+  "try_again": "Try again",
+  "level": "Level",
+  "wallet": "Wallet",
+  "balance": "Balance",
+  "transfer": "Transfer",
+  "bonus": "Bonus",
+  "bonuses": "Bonuses",
+  "win": "Win",
+  "lost": "Lost",
+  "title": "Title",
+  "status": "Status",
+  "date": "Date",
+  "time": "Time",
+  "amount": "Amount",
+  "from_date": "From date",
+  "to_date": "To date",
+  "number_of_rows": "Number of rows",
+  "authentication": "Authentication",
+  "poker_games": "Poker games",
+  "agency": "Agency",
+  "view": "View",
+  "successful_operation": "Successful operation",
+  "info": "Information",
+  "warning": "Warning",
+  "error": "Error",
+  "connection_error": "Problem connecting to server, please try again.",
+  "_data": {
+    "breadcrumbs": {
+      "home": "Home",
+      "register": "Register",
+      "login": "Login",
+      "verification": "Verification",
+      "reset_password": "Password reset",
+      "panel": "Control panel",
+      "lobby": "Games",
+      "payment_result": "Transaction result",
+      "card_transfer": "Deposit to card",
+      "league": "League",
+      "about": "About us",
+      "rules": "Terms and Conditions",
+      "contact": "Contact us",
+      "faq": "Frequently Asked Questions",
+      "tutorial": "Poker Tutorial",
+      "dictionary": "Poker Terms",
+      "dashboard": "Dashboard",
+      "notifications": "Notifications",
+      "profile": "Profile",
+      "invite": "Invite friends",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "transactions": "Transactions",
+      "game_history": "Game history",
+      "agency": "Agency"
+    },
+    "titles": {
+      "default": "Poker Net | Online poker reference",
+      "register": "Poker Net | Register ",
+      "login": "Poker Net | login",
+      "verification": "Poker Net | Verification",
+      "reset_password": "Poker Net | Reset password",
+      "panel": "Poker Net | Panel",
+      "lobby": "Poker Net | Games",
+      "payment_result": "Poker Net | Transaction result",
+      "card-transfer": "Poker Net | Deposit to card",
+      "league": "Poker Net | league",
+      "about": "Poker Net | About us",
+      "rules": "Poker Net | Terms and Conditions",
+      "contact": "Poker Net | Contact us",
+      "faq": "Poker Net | Frequently Asked Questions",
+      "tutorial": "Poker Net | Poker Tutorial",
+      "dictionary": "Poker Net | Poker Terms",
+      "agency": "Poker Net | Agency"
+    },
+    "descriptions": {
+      "default": "Professional online poker game reference",
+      "register": "Register on the site ",
+      "login": "Login to account",
+      "verification": "Account validation",
+      "reset_password": "Password reset",
+      "panel": "User Panel",
+      "lobby": "Games, Texas Hold'em and Omaha Poker",
+      "payment_result": "Transaction result",
+      "card_transfer": "Deposit to card",
+      "league": "league",
+      "about": "About us",
+      "rules": "Site Terms and Conditions",
+      "contact": "Contact the support team",
+      "faq": "Frequently Asked Questions",
+      "tutorial": "Texas Hold'em and Omaha Poker Tutorial",
+      "dictionary": "Learn poker terms",
+      "agency": "Get poker representative"
+    },
+    "keywords": {
+      "default": "Online-Poker,Poker-Reference,Texas-Hold'em,Omaha,Poker-Tutorial,Poker-Tournament,Poker-Game",
+      "lobby": "Play-poker,Texas-Hold'em,Omaha",
+      "tutorial": "Poker-Training,Texas-Hold'em-Training,Omaha-Training",
+      "dictionary": "Training-Terms-Poker,Training-Texas-Hold'em,Training-Omaha",
+      "agency": "poker-agency,Texas-Hold'em,Omaha,Earnings,Get-representation"
+    }
+  },
+  "_time": {
+    "year": "Year",
+    "month": "Month",
+    "day": "Day",
+    "hour": "Hour",
+    "minutes": "Min",
+    "seconds": "Sec",
+    "right_now": "Right new",
+    "ago": "ago",
+    "later": "later",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "_footer": {
+    "subscription": {
+      "title": "Newsletter subscription",
+      "subtitle": "Subscribe to the newsletter to be informed of new news and events"
+    },
+    "contact": "Contact information",
+    "contact_description": "We respond to your questions, suggestions and criticisms 24 hours a day",
+    "links": "Links",
+    "about": "Pokernet is proud that with years of experience and effort, it is now the largest specialized reference for poker games in the world, we are always striving to provide the best services to our users."
+  },
+  "_home": {
+    "hero": {
+      "subtitle": "play anytime, any where",
+      "title": "Poker Net",
+      "guest_description": "Register to start and deposit to play",
+      "member_description": "Start now, do you think you can beat your opponent ?"
+    },
+    "league": {
+      "title": "league",
+      "subtitle": "Every week with special prizes",
+      "time_left": "Time left:",
+      "top_players": "Top Players",
+      "button": "League",
+      "score": "Score"
+    },
+    "how_to_play": {
+      "subtitle": "Get ready to go",
+      "title": "How to play",
+      "description": "Follow these 3 easy steps!",
+      "register_step": "Create an account ",
+      "charge_step": "Charge your account",
+      "play_step": "Play and win"
+    },
+    "games": {
+      "subtitle": "Different than ever",
+      "title": "Diverse games",
+      "description": "We offer you a variety of games, just try you will definitely enjoy",
+      "tables_subtitle": "Texas Hold'em and Omaha diverse tables",
+      "tournament_subtitle": "Daily and weekly tournaments",
+      "fight_subtitle": "First fighting poker game"
+    },
+    "overview": {
+      "subtitle": "Our activity Around the World",
+      "title": "Let the number speak for us",
+      "description": "Over the years we have provided online poker services to millions of players in online casinos around the world and enjoy the satisfaction of our customers.",
+      "active_users": "Active user per month ",
+      "market_presence": "Years on the market",
+      "customer_satisfaction": "Customer Satisfaction"
+    },
+    "support": {
+      "subtitle": "Get in touch with our friendly support",
+      "title": "Customer Support",
+      "description": "Have a question or need help? Contact our friendly support team.",
+      "contact_title": "Talk to our support team",
+      "contact_description": "Do you have a question? Get in touch with our friendly staff?",
+      "faq_title": "Our guide for you",
+      "faq_description": "Check out our FAQs to see if we can help you out.",
+      "faq_button": "FAQs & Help"
+    }
+  },
+  "_panel": {
+    "require_validation_message": "Dear user, to access this section, you must complete the validation steps of your account in the user control panel.",
+    "image_modal": {
+      "title": "Edit profile photo",
+      "description": "What do you want to do?"
+    },
+    "logout_modal": {
+      "description": "Do you want to log out of your account?"
+    },
+    "dashboard": {
+      "verification": {
+        "title": "To use all the features of the site as well as withdraw from the account, it is necessary to complete the following items.",
+        "email": {
+          "text": "Your email address is not verified, please verify it.",
+          "button": "Email verify"
+        },
+        "mobile": {
+          "text": "Your mobile number is not verified, please verify it.",
+          "button": "Mobile verify"
+        }
+      },
+      "level": {
+        "title": "Level"
+      },
+      "bonus": {
+        "subtitle_1": "The bonuses you have received will be displayed in this section.",
+        "subtitle_2": "You can transfer these bonus to your wallet.",
+        "exchange_button": "Transfer to wallet"
+      },
+      "withdraw": {
+        "title": "Withdraw",
+        "subtitle": "Your impression:"
+      },
+      "invite": {
+        "title": "Subsets",
+        "subtitle": "You have invited <span style='color: #fff; font-size: 21px; font-weight: bold'>{{count}}</span> person",
+        "invite_button": "Invite friends"
+      },
+      "game_stats": {
+        "title": "Game statistics"
+      }
+    },
+    "profile": {
+      "edit_profile": "Edit profile",
+      "change_password": "Change password",
+      "name": "Name",
+      "family": "Family",
+      "birthday": "Birthday",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "username": "Username",
+      "alias": "Alias",
+      "national_code": "National code",
+      "national_code_require": "In order to connect your account to a real person and create security for your wallet, it is necessary to enter this code and it will be completely safe with us.",
+      "mobile_number": "Mobile number",
+      "current_password": "Current password",
+      "new_password": "New password",
+      "confirm_new_password": "Confirm new password",
+      "enter_username": "Enter the username",
+      "enter_mobile_number": "Enter the mobile number",
+      "enter_current_password": "Enter the current password",
+      "enter_new_password": "Enter the new password",
+      "enter_confirm_password": "Enter the new password again",
+      "not_match_password": "Repeating a password is not the same as password",
+      "not_valid_password": "The password must be at least 6 characters",
+      "not_valid_mobile_number": "The entered mobile number is not valid",
+      "not_valid_national_code": "The entered national code is not valid"
+    },
+    "invite": {
+      "title": "Invite Friends",
+      "copy_link": "Copy link",
+      "link_copied": "Link copied",
+      "income_title": "Your income",
+      "income_description": "You can transfer this income to your wallet.",
+      "subset": {
+        "title": "Your subset ({{count}} person)",
+        "filter": {
+          "title": "Ordering:",
+          "items": {
+            "new": "Newest",
+            "verified": "Authenticated",
+            "earning": "Most profitable"
+          }
+        },
+        "list": {
+          "name": "Name",
+          "register": "Register",
+          "income": "Income",
+          "authentication": "Authentication",
+          "empty_list": "You have not invited anyone yet."
+        }
+      },
+      "modal": {
+        "success_transfer": {
+          "title": "Successful operation",
+          "message": "Revenue from subcategories was added to your wallet."
+        },
+        "balance_error": {
+          "title": "System message",
+          "message": "The minimum transferable amount is {{amount}} Tomans"
+        }
+      }
+    },
+    "deposit": {
+      "title": "Deposit",
+      "subtitle": "Please choose your payment method.",
+      "choose_payment_method": "Choose the payment method",
+      "description": "The minimum amount payable is {{min}} {{currency}} and the maximum is {{max}} {{currency}}. ",
+      "enter_amount": "Enter the deposit amount.",
+      "invalid_amount_min": "The amount entered is less than the minimum deposit.",
+      "invalid_amount_max": "The amount entered is more than the maximum deposit. ",
+      "please_wait": "Please wait..."
+    },
+    "withdraw": {
+      "title": "withdraw",
+      "subtitle": "Please enter the withdrawal amount",
+      "description": "The min amount that can be withdrawn is {{min}} and the max is {{max}} {{currency}}",
+      "choose_withdraw_method": "Please select your withdrawal method",
+      "choose_bank": "Please select your bank",
+      "enter_amount": "Enter the withdrawal amount.",
+      "invalid_amount_min": "The amount entered is less than the minimum withdrawal. ",
+      "invalid_amount_max": "The amount entered is more than the maximum withdrawal.",
+      "withdraw_method": "Withdraw method",
+      "name_family": "Name and family",
+      "enter_name_family": "Enter first and last name.",
+      "please_enter_card_number": "Please enter your card number",
+      "please_enter_currency_id": "Please enter the {{name}} ID",
+      "enter_currency_id": "Enter the {{name}} ID",
+      "enter_card_number": "Please enter the card number ",
+      "currency_id": "{{name}} ID",
+      "enter_owner_name_family": "Enter the first and last name of the account holder",
+      "button": "withdraw"
+    },
+    "transactions": {
+      "withdraw": "Withdraw",
+      "deposit": "Deposit",
+      "transaction_type": "Type",
+      "empty_list": "There is no transaction"
+    },
+    "notifications": {
+      "empty_list": "You have no notifications yet"
+    }
+  },
+  "_authentication": {
+    "verification_code": "Verification code",
+    "email": {
+      "title": "Verify email address",
+      "description": "Click the authentication button to verify the email address, also you can now change the email address if you entered it incorrectly when you registered.",
+      "popover": {
+        "title": "Email address",
+        "description": "Email is used to inform important information about your account, site as well as account validation."
+      },
+      "enter_email": "Enter your email address",
+      "invalid_email": "The entered email is not correct",
+      "code_submitted": "We have sent a code to your email address. Please enter it and click the send button.",
+      "check_spam": "If you did not receive the code, check your email spam folder as well.",
+      "enter_verification_code": "Enter the verification code",
+      "timer": "If you did not receive the code, please reapply after <strong>{{time}}</strong>",
+      "not_receive_code": "Have not received the code yet?"
+    },
+    "mobile": {
+      "title": "Verify mobile number",
+      "description": "Click the Validation button to verify your mobile number, also you can now change it if you mistyped your mobile number when you registered.",
+      "popover": {
+        "title": "Mobile number",
+        "description": "The mobile number is used to contact you in important cases such as winning the tournament, cooperating and talking to you about your account."
+      },
+      "enter_mobile": "Enter your mobile number",
+      "invalid_mobile": "The entered mobile is incorrect",
+      "calling": "You will receive a phone call in a few moments, note that you have to answer this call, as soon as you pick up the phone the call will be disconnected then you have to enter the received call number in the box below.",
+      "Enter_received_call_number": "Enter the received call number",
+      "timer": "If you did not receive the call, please reapply after <strong>{{time}}</strong>",
+      "not_receive_call": "Have not received the call yet?"
+    }
+  },
+  "_lobby": {
+    "all": "All",
+    "holdem": "Hold'em",
+    "omaha": "Omaha",
+    "omaha_5_card": "Omaha 5 card",
+    "game_type": "Game type",
+    "players": "Players",
+    "rings": {
+      "table_name": "Name",
+      "small_big": "Small / Big",
+      "min_max": "Min / Max",
+      "empty_list": "There is no table"
+    },
+    "tournament": {
+      "start": "Start",
+      "register": "Register",
+      "registering": "Registering",
+      "running": "Running",
+      "ended": "Finished",
+      "canceled": "Canceled",
+      "capacity": "Capacity",
+      "fee": "Fee",
+      "prize": "Prize",
+      "empty_list": "There is no tournament",
+      "remaining_time": "Remaining time to start",
+      "started_at": "Started at",
+      "ended_in": "Ended in",
+      "prize_amount": "Prize amount",
+      "site_prize": "Site prize",
+      "register_fee": "Register fee",
+      "player_capacity": "Player capacity"
+    }
+  },
+  "_contact": {
+    "description": "If you have any suggestions, criticisms or questions, you can send us a message below, we will respond as soon as possible.",
+    "subtitle": "Send us a message ",
+    "name": "Name",
+    "email": "Email",
+    "whatsapp": "Whatsapp",
+    "enter_name": "Enter your name",
+    "enter_email": "Enter your email",
+    "invalid_email": "The entered email is not correct",
+    "subject": "Subject",
+    "enter_subject": "Enter message subject",
+    "message": "Message",
+    "enter_message": "Enter the message text",
+    "invalid_message": "The text of the message must be at least 5 characters",
+    "send_message": "Submit"
+  },
+  "_register": {
+    "title": "Create account",
+    "subtitle": "We are glad you are here!",
+    "has_account": {
+      "title": "Do you have an account now?",
+      "subtitle": "Login and go to your dashboard.",
+      "login": "Login"
+    },
+    "invalid_username": "Username must be at least 4 characters long and can contain '0-9', 'A-z', '_' and period",
+    "enter_email": "Enter your email",
+    "invalid_email": "The entered email is not correct",
+    "enter_password": "Enter the password ",
+    "enter_confirm_password": "Enter the password again",
+    "invalid_password": "Password must be at least 6 characters long",
+    "invalid_confirm_password": "Confirm password is not the same as password",
+    "enter_mobile_number": "Enter your mobile number",
+    "invalid_mobile_number": "The entered mobile is incorrect",
+    "accept_rules": "I agree to accept the <a style='color: #ffbd7f' routerLink='/rules'>terms and conditions</a> of the site."
+  },
+  "_login": {
+    "title": "Login",
+    "subtitle": "Enter your username or email and password to login",
+    "no_account": {
+      "title": "Do not have an account yet?",
+      "subtitle": "Create a new account and login.",
+      "create_account": "Create account"
+    },
+    "enter_username": "Enter your username or email",
+    "enter_password": "Enter the password",
+    "forget_password": "Forgot your password?",
+    "login": "Login"
+  },
+  "_tournament": {
+    "remaining_time": "Remaining time to start",
+    "start_full_capacity": "Starts soon as the capacity is completed",
+    "started_at": "Started at",
+    "ended_in": "Ended in",
+    "registering": "Registering",
+    "running": "Running",
+    "ended": "Finished",
+    "canceled": "Canceled",
+    "canceled_message": "This tournament has been canceled and will not be held.",
+    "game_type": "Game type",
+    "fee": "Fee",
+    "capacity": "Capacity",
+    "prize_amount": "Prize amount",
+    "site_prize": "Site prize",
+    "register_fee": "Register fee",
+    "player_capacity": "Player capacity",
+    "min_player": "Minimum player",
+    "collected_pot": "Collected pot:",
+    "tournament_rules": "Tournament rules",
+    "rules_description": "Please read the rules of the tournament before registering for the tournament to know the rules and also how to hold and distribute prizes.",
+    "round_waiting_message": "Please wait until the end of the game for the rest of the tables and the start of the next round...",
+    "preparing_tables": "Preparing tables",
+    "running_games": "Running games"
+  },
+  "_league": {
+    "title": "League",
+    "week_prize": "This Week Awards",
+    "last_week_winners": "Last week winners",
+    "top_players": "Top players ",
+    "league_ended": "The league is over",
+    "person" : "Person {{value}}",
+    "list": {
+      "name": "Name",
+      "score": "Score",
+      "rank": "Rank",
+      "empty_list": "There are no data yet."
+    }
+  },
+  "_about": {
+    "title": "We have a big dream",
+    "subtitle": "A few words about us",
+    "description_1": "We boldly pursue our ambition: We want to be the largest and best online poker platform in the world. We believe that any player can win, that's why we try day and night and offer you a lot of game methods. Our goal is to provide unprecedented variety and quality.",
+    "description_2": "Our team of creative programmers, marketing experts and members of the global community of developers have worked together to build the ultimate online poker site, and every satisfied and happy customer reminds us how lucky we are to do what we love.",
+    "customer_satisfaction": "Customer Satisfaction",
+    "market_presence": "Years on the market",
+    "active_users": "Active user per month ",
+    "attributes": {
+      "title": "What differentiates us?",
+      "subtitle": "Comprehensive list of amazing features",
+      "description": "These are the key motivators that make us different: safe, social, trustworthy and fun. The motto of the month is trust and security.",
+      "commission": "Least commission",
+      "safe": "Safe and reliable",
+      "diverse_games": "Diverse games",
+      "instant_payment": "Instant payment system",
+      "professional_support": "Professional support",
+      "real_players": "Real players"
+    },
+    "comments": {
+      "title": "User comments",
+      "subtitle": "Our happy users all over the world",
+      "description": "With over 8 years of experience as a leading online poker service provider in the world. Find out what our members have to say about us!"
+    }
+  },
+  "_faq": {
+    "title": "We have answers",
+    "subtitle": "You have a question?",
+    "description": "If you can not find what you are looking for then send us an email."
+  },
+  "_dictionary": {
+    "poker_terms": "Poker Terms",
+    "action": "وقتی نوبت شماست و شما متوجه نشدید دیلر به شما با این کلمه یاد آوری میکند",
+    "ante": "مبلغ بسیار ناچیزی برای شروع بازی به پات اضافه میشود که به آن میگویند آنته",
+    "all_in": "وقتی مبلغ موجودی شما بعد از کال کردن یا شرط گذاشتن به پایان برسد میگوییند آل این",
+    "backdoor": "شرط گذاشتن و کال کردن بعد از پخش 3 کارت اول *فلاپ* برای دیدن هر 5 کارت *ریور*",
+    "bad_beat": "بردن یک دست آندر داگ *دست با کارت های خیلی بد* به نسبت دست محبوب*دست با کارت های خیلی خوب*",
+    "bet": "شرط گذاشتن",
+    "big_blind": "در شروع بازی 2 نفر اول که کارت میگیریند موظف به پرداخت چیپس هستند، مبلغ بزرگ که نفر دوم میگذارد بیگ بلایند میگویند",
+    "blank": "کارتی که روی میز پخش شده و تاثییر خاصی دربرد و باخت کسی ندارد کارت بلنک میگویند",
+    "blind": "مبلغ اجباری برای شروع بازی",
+    "bluff": "شرط بستن یا کال کردن زمانی که کارت شما ضعیف است و کارت برنده ای ندارید برای گول زدن حریف",
+    "board": "میز شامل 3 کارت اول *فلاپ* و کارت 4*ترن* و کارت آخر*ریور* میباشد که به این 5 کارت برد میگویند",
+    "bottom_pair": "دو کارت مشابه در فلاپ ولی ضعیف",
+    "burn": "دور انداختن کارت های خوب وقوی",
+    "buy": "شرط گذاشتن به اندازه ی مبلغ پات به امید بلاف تا همه کارت هایشان را بنازند",
+    "call": "قرار دادن چیپس به اندازه ی آخرین مبلغ شرط گذاشته شده",
+    "calling_station": "بازیکنی ضعیف که همیشه کال میکند و چیپسی جمع آوری نکرده است",
+    "cap": "قرار دادن چیپس به اندازه ی آخرین مبلغ مجاز شرط بندی شده روی میز, معمولا سومین یا چهارمین شرط بندی پشت به پشت حریف",
+    "case": "به آخرین کارت در هر دست",
+    "center_pot": "آولین پات در شروع بازی",
+    "check": "شرط نگذاشتن",
+    "check_raise": "وقتی که شما شرط نمیگذارید تا دیگری شرط بگذارد و بعد مبلغ بیشتری از حریف بگذارید",
+    "cold_call": "وقتی بیشتر از چند بار شرط حریف را کال کنید",
+    "complete_hand": "دستی که توسط هر پنج کارت تعریف میشود",
+    "connector": "دست ابتدایی هولدم که در آن دو کارت از نظر درجه با هم فاصله دارند",
+    "counterfeit": "به عنوان مثال شما 4 و8  دارید و روی میز 5 و 6 و 7 وآس امده و دوباره عدد 5 می آید، به آن کانترفیت میگوییند",
+    "crack": "بردن دست حریف با کارت های بسیار خوب",
+    "cripple": "داشتن بهترین دست ممکن",
+    "dealer": "کسی که کارت ها را بر میزند و پخش میکند",
+    "dominated_hand": "دستی که تقریبا به دست بهتری که معمولا مردم بازی میکنند میبازد",
+    "draw": "دستی که هنوز خوب نیست اما اگر کارت های مناسب بیایند می تواند ببرد",
+    "draw_dead": "دستی که خوب نیست ولی شما به بازی ادامه میدهید و میبازید",
+    "equity": "سهم شما از پات",
+    "expectation": "مبلغی که انتظار دارید در صورت بازی در یک بازی",
+    "extra_blind": "مبلغی که توسط بازی کن جدید یا بازیکنی که بازگشته به بازی یا تغییر صندلی درمیز پرداخته میشود",
+    "family_pot": "مبلغی که همه قبل فلاپ میپردازند",
+    "fast": "بازی سریع و تهاجمی, شرط بندی و بالا بردن تا حد ممکن",
+    "favourite": "دست محبوبی که آمار بالایی برای برنده شدن دارد",
+    "flop": "سه کارت اول",
+    "fold": "انداختن کارت ها",
+    "foul": "دستی که انجام نیمشود به دلایل موجه",
+    "free_card": "دستی که مجبور نیستید شرط بگذارید, دست مجانی",
+    "free_roll": "یک بازیکن شانس برد همه ی پات را دارد وقتی بازی مساوی میشود",
+    "gutshot_straight": "مستقیما استرایت شدن بعد از فلاپ",
+    "head_up": "تک به تک شدن در یک میز چند نفره",
+    "hit": "گرفتن کارت مورد نظر در فلاپ",
+    "hole_cards": "کارت های پخش شده ولی رو به پشت در اوماها",
+    "house": "تاسیس کننده ی بازی , پوکر",
+    "implied_odds": "شانس برد شما خیلی کم است ولی به علت محاسبات که دارید امکان هیت کردن شما زیاد میشود",
+    "inside_straight_draw": "گشتن به دنبال کارت مورد نظر برای ساترایت شدن",
+    "jackpot": "یک بونوس بسیار بسیار خاص از طرف تاسسیس کننده میز به شما به علت برد دست حریف که کارت های خوبی دارد و شما که کارت های بازنده ای دارید",
+    "kicker": "دارید و حریف Ak شما AQ، اگر روی میز کارت آس بیاید شما پادشاه ضربه گیر یا همان کیکر داری",
+    "live_blind": "به شرط بندی از طرف هر بازی کنی قبل از پخش کارت",
+    "maniac": "به بازی کنی که بسیار سبک بازی پرخاش گری و بالا بردن و بلوف زدن زیادی دارد گفته میشود",
+    "muck": "کارت های سوخته",
+    "no_limit": "بازی بدون محدودیت",
+    "nuts": "بهترین دست ممکن",
+    "offsuit": "دست شروع در هولدم با دو کارت کاملا نا مشابه",
+    "one_gap": "دست شروع در هولدم با دو کارت مشابه",
+    "open_ended_straight": "گشتن به دنبال یک یا دو کارت برای استرایت شدن",
+    "out": "کارتی که باعث بردن شما در آن دست میشود",
+    "outrun": "شکست دادن",
+    "overcall": "کال کردن دوباره بعد از اینکه همه بازیکنان کال کرده اند",
+    "overcard": "به کارتی که از همه ی کارت های دیگر روی میز بیشتر میباشد",
+    "overpair": "به جفت کارتی که از همه ی کارت در فلاپ بیشتر میباشد",
+    "pay_off": "کال کردن حتی وقتی دستی دارید که نمیتواند ببرد ولی همچنان کال میکنید تا کارت آخر را ببینیدپ",
+    "play_the_board": "نشان دادن دستتان زمانی که کارتهای شما دستی بهتر از آنچه در میز نشان داده شده را نشان نمی دهد",
+    "pocket": "کارت های خاص درهولدم",
+    "pocket_pair": "کارت های جفت در هولدم",
+    "post": "شرط بندی کورکورانه",
+    "pot_limit": "ورژنی از پوکر که در آن حداکثر مبلغ شرط میزان پات میباشد",
+    "pot_odds": "مقدار پول پات در مقایسه با مبلغی که برای ادامه بازی باید در پات بگذارید",
+    "price": "مبلغی که شما با بالا بردن یا تساوی دریافت خواهید کرد",
+    "protect": "پول بیشتری گذاشتن برای اینکه پولی که تا الان گذاشته ای به هدر نرود",
+    "quads": "چهار تا از یک کارت یا همان فور آو ا کایند",
+    "raise": "بالا بردن",
+    "rake": "مبلغی در از پات که دیلر بر میدارد",
+    "rank": "سطح",
+    "river": "کارت پنجم",
+    "represent": "طوری بازی کردن که انگار کارت مهمی دارید",
+    "rock": "بازی کنی که خیلی با احتیاط بازی میکند, فقط زمانی که کارتهای خوب دارد بالا میبرد و زیاد خلاقانه بازی نمیکند",
+    "scare_card": "کارتی که با آمدنش بهترین دست را به آشغال ترین دست تبدیل میکند",
+    "second_pair": "از بالا, اولین نه ولی دومین جفت بالای میز در این دست",
+    "sell": "وقتی کارت های بسیار خوبی دارید ولی مقدار بسیار اندکی بالا میبرید تا بازیکنان که مخاستن فولد کنند به بازی ادامه دهند",
+    "semi_bluff": "بالا بردن بسیار زیاد به عنوان بلوف تا همه فولد کنند",
+    "set": "سه تا از یک کارت یه همان تری آو ا کایند",
+    "short_stack": "کسی که کمتیرین چیپس را در میز دارد",
+    "showdown": "زمان که همه بازی کنان تا پنجمین کارت بازی میکنند تا همه ی کارت هارا ببینند",
+    "side_pot": "پات ایجاد شده که بازیکنان علاقه ای به برد آن ندارد",
+    "slow_pay": "ضعیف بازی کردن یک دست قوی تا بازیکنان بیشتری در پات بمانند و چیپس بیشری بگذارند",
+    "small_blind": "نصف مبلغ بیگ بلایند که گذاشتن آن اجباری میباشد",
+    "smooth_call": "کال کردن با دستی قوی زمانی که میتوانید بالا ببرید",
+    "split_pot": "پات ایجاد شده که در آن بازیکن با کمترین چیپش آل اینش جدا از بقیه محاسبه میشود",
+    "slit_two_Pair": "یک دست دو جفتی که در آن یکی از صفحات کارت های شما نیز روی میز ظاهر میشود",
+    "spread_limit": "یک ساختار شرط بندی که در آن بازیکن می تواند در هر بازه شرط بندی هر مقدار را شرط بندی کند",
+    "straddle": "آپشنی که به شما اجازه میدهد هر 5 کارتی که قرار بود روی میز می آید را ببینید البته بعد از تمام شدن دست",
+    "string_bet": "شرط بندی که در آن بازیکن تمام چیپس های مورد نیاز برای افزایش را با یک حرکت به پات وارد نمیکند",
+    "suited": "دست شروع هولدم که دو کارت در آن یکسان است",
+    "tilt": "وحشیانه بازی کردن",
+    "time": "وقت اضافه بر وقت معین شده",
+    "toke": "مبلغ بسیار کمی که به دیلر بعد از دادن دست خوب میدهید",
+    "top_pair": "جفت قوی تر میز",
+    "top_set": "بالا تری تریس یا همان 3 تا از یک کارت",
+    "top_two": "بالا ترین جفت میز",
+    "turn": "چهارمین برگ",
+    "under_gun": "جایگاه کسی که اولین حرکت را انجام میدهد",
+    "underdog": "کسی که از نظر محاسباتی قرار نیس",
+    "value": "وقتی که شما میخاهید بازیکن حریف بالا بردن شما را کال کند",
+    "variance": "معیاری از نوسانات بالا و پایین که بانک شما از آن عبور میکند"
+  },
+  "_tutorial": {
+    "title": "Poker Tutorial",
+    "description": {
+      "line_1": "بازی پوکر نوعی بازی با ورق و یکی از معروفترین و محبوب ترین بازی های کازینو در سرتاسر جهان است.",
+      "line_2": "یک بازی فکری، تخصصی و گروهی است که با شانس، محاسبه احتمالات ریاضی،استراتژی های مختلف و بلوف زدن همراه است."
+    },
+    "texas_holdem": "Texas hold'em",
+    "omaha": {
+      "title": "Omaha",
+      "description": "تنها تفاوت آن با پوکر تگزاس این است که به جای2کارت به شما4 کارت داده می شود. باید از دو کارت آن برای بازی استفاده نمایید و با سه کارت روی زمین می شود 5 کارت بازی اصلی شما."
+    },
+    "term": {
+      "dealer": "دیلر کسی است که مسئول پخش کردن کارت ها است و پس از هر دست بازی، دیلرتغییر می کند و نفر بعدی در جهت عقربه های ساعت دیلر می شود.در سایت دیلر به صورت خودکار و کامپیوتراست، به این صورت که ابتدا از نفر بعد خود در جهت عقربه های ساعت شروع کرده و به همه افراد یک ورق می دهد، پس از آن مجددا یک برگ دیگر مثل اولین کارت به همه افراد می دهد وسپس پیش بینی انجام می شود و در نهایت با اتمام دور، دیلر به سراغ کارت ها رفته و یک کارت را می سوزاند، کارت رویی را از بازی خارج کرده وسه کارت بعد از آن را نمایش می دهد.",
+      "flop": "پس از رو شدن سه کارت فلاپ (کارت های رو شده بین همه بازیکنان مشترک است)، مجددا یک دور شرط بندی انجام می شود.",
+      "turn": "پس از آن دیلر مجددا یک کارت را می سوزاند و یک کارت(Turn)رو می کند. پس از رو شدن کارت تِرن،مجددا یک دور شرط بندی انجام می شود.",
+      "river": "پس ازآن دیلر یک کارت می سوزاند و آخرین کارت را رو می کند، پس از رو شدن پنجمین کارت و آخرین کارت (ریوِر) آخرین دور شرط بندی هم انجام می شود و با پایان شرط بندی، نوبت دست بازیکنان و تعیین برنده است. نحوه نمایش بازیکنان نیز به صورت توافقی است ولی معمولااز آخرین نفری که شرط بسته است شروع شده و به صورت ساعتگرد بقیه دست خود را به ترتیب نمایش می دهند که البته این موضوع اهمیت خاصی و تاثیری در بازی ندارد.",
+      "betting": {
+        "title": "روند انجام شرط بندی",
+        "description": "پیش از بازی لازم است هر بازیکن به صندوق مراجعه کند و تعدادی ژتون تهیه کند تا بتواند در بازی از آنها برای پیش بینی استفاده کند."
+      },
+      "chip": "حداقل پول لازم برای ورود به هر دور بازی معادل ژتون بیگ بلایند است که قبل از بازی مشخص می شود.",
+      "blinds": {
+        "small": "اولین نفر بعد از کارت پخش کن در جهت عقربه های ساعت اسمال بلایند نام دارد و باید نصف میزان حد اقل را قبل از دریافت کارت بپردازد که به آن نیم گیر گفته می شود.",
+        "big": "نفر بعدی باید کل مبلغ را بپردازد (گیر). (بیگ بلایند) در واقع این دو نفر مجبور به پرداخت این مبالغ هستند برای اختصار از این پس از بیگ بلایند و اسمال بلایند به عنوان SB/BB یاد می شود بعد از توزیع کارت توسط کارت پخش کن،شرط بندی از نفر بعد ازBB شروع می شود. هر بازیکن برای ورود به بازی باید حداقل میزان BB را بپردازد یا در غیر این صورت از آن دور بازی خارج شود و به اصطلاح جا برود که در پوکر (Fold) نامیده می شود."
+      },
+      "raise": "حالت دیگر این است که، شخصی با توجه به پتانسیل بالای کارتهای موجود در دست خود میزان شرط را افزایش دهد که اصطلاحا در پوکر (Raise) نام برده می شود."
+    },
+    "limits": {
+      "title": "حداقل میزان رِیز به اندازه یک گیر است، پوکر به سه دسته تقسیم می شود:",
+      "limit": "به اندازه همان مبلغ گیر است.",
+      "pot_limit": "حد اکثر به اندازه پولی که تا به آن لحظه روی میز جمع شده است.",
+      "no_limit": "محدودیتی در میزان افزایش شرط نیست.",
+      "condition": "بعد از هر ریز هر بازیکنی باید به میزان آخرین شرط بپردازد تا بتواند در آن دور بازی شرکت کند."
+    },
+    "round_1": {
+      "title": "دور اول کارتهای اشتراکی: سه کارت با نام (Flop)",
+      "description": "بعد از پایان دور اول شرط بندی، سه کارت رو می شود و بعد از نمایش فلاپ یک دور تازه شرط بندی انجام می شود، در این دور نفرات بعدی بر اساس گردش عقربه های ساعت باید بازی کنند باز هم مانند قبل هر بازیکن می تواند Check کند،Raise دهد یا در پاسخ به یک Raise جا رفته یا به اصطلاح Fold کند."
+    },
+    "round_2": {
+      "title": "دور دوم کارتهای اشتراکی:یک کارت با نام (Turn)",
+      "description": "بعد ازپایان دور دوم شرط بندی، یک کارت رو می شود. این کارت نیز همچون سه کارت قبلی متعلق به همه بازیکنان است.بعد از نمایش ترن یک دور تازه شرط بندی انجام می شود، در این دور نیز که بر اساس گردش عقربه های ساعت نفرات بعدی باید بازی کنند،بازهم مانند قبل هر بازیکن می تواند Check کند، Raise دهد یا در پاسخ به یک Raise جا رفته یا به اصطلاح Fold کند. بعد از بسته شدن دور جدید، کارت پایانی اشتراکی رو می شود."
+    },
+    "round_3": {
+      "title": "دور سوم کارتهای اشتراکی:یک کارت با نام (River)",
+      "description": "بعد از پایان دور سوم شرط بندی، یک کارت که آخر کارت آخر است رو می شود. این کارت نیز همچون چهار کارت قبلی متعلق به بازیکنان است، به این معنی که هر بازیکن بهترین دست 5تایی از 7 تایی کارت خود(دو کارت در دست و پنج کارت مشترک روی میز) را ارائه می کند،سپس بازیکنان شرط های خود را قرار داده و بازی تمام می شود، نفر باقیمانده برنده کلیه پولهایی است که تا آن لحظه جمع شده است. پس از بسته شدن آخرین دور شرط، در صورتی که بیش از یک نفر در بازی حضور داشته باشند،کارتهایش را رو می کند و به ترتیب بقیه نیز همین کار را می کنند و بهترین دست؛پولهای موجود را می برد اگر دو یا چند نفر دستهای مشابه داشته باشند تقسیم پول صورت گرفته که به اصطلاح Spilt انجام خواهد شد بدین معنی که کل مبلع بین برنگان دور تقسیم می شود."
+    },
+    "hand_strength": {
+      "title": "ترتیب دستها در پوکر از بالاترین دست به صورت زیر میباشد:",
+      "royal_flush": "پنج کارت پشت سرهم باشد و همخال ولی از بالا ترین ورق باشند.",
+      "straight_flush": "پنج کارت پشت سرهم و هم رنگ باشند.",
+      "four_of_a_kind": "چهار کارت از یک نوع می شود.",
+      "full_house": "دو کارت از یک نوع به همراه سه کارت از یک نوع.",
+      "flush": "پنچ کارت هم خال.",
+      "straight": "پنج کارت پشت سرهم داشته باشد.",
+      "three_of_a_kind": "سه کارت یک جور داشته باشد.",
+      "two_pair": "دو جفت از یک نوع کارت داشته باشد.",
+      "one_pair": "یک جفت از یک نوع کارت داشته باشد.",
+      "high_cards": "در صورتی که هیچکدام از موارد توضیح داده انجام نشد بزرگترین کارت در بین بازیکن ها برنده خواهد شد."
+    }
+  },
+  "_rules": {
+    "title": "Terms and Conditions",
+    "simple_rules": {
+      "title": "Simple rules you need to know before playing on the site",
+      "legal_age": "The legal age to participate in any casino site is 18 years.",
+      "validation": {
+        "title": "The following must be entered correctly:",
+        "email": "Email",
+        "birthday": "Birthday",
+        "phone_number": "Phone number",
+        "name": "First and last name",
+        "description": "اگر کاربری شماره تماس را عوض کرده یا ایمیل جدیدی ساخته است, سریعاَ باید اطلاعات جدید خود را در سایت تغییر دهد یا حداقل به سایت اطلاع دهد\nهر شخص فقط میتواند یک حساب کاربری با ایمیل یا آی پی آدرس خود داشته باشد, در صورت لازم بودن به ساخت حساب کاربریه جدید, حتماَ باید ایمیل جدیدی وارد شود."
+      }
+    },
+    "payment": {
+      "title": "شارژ و برداشت :",
+      "min_deposit": "حداقل مبلغ واریز برای شارژ کردن اکانت 10 هزار تومان میباشد",
+      "min_withdrawal": "حداقل برداشت از حساب کاربری 50 هزار تومان میباشد",
+      "max_time": "حداکثر زمان واریز به حساب بانکی کاربران 24 ساعت میباشد",
+      "condition": "برای برداشت از حساب باید حداقل یک بار حساب کاربری خود را شارژ کرده باشید"
+    },
+    "betting": {
+      "title": "شرایط برای بت کردن در سایت :",
+      "description_1": "هدف شرکت تضمین کیفیت تفریحات است ،وامکان انجام آن با تفریح در محیطی کاملا امن است. ما میخواهیم بازیکنان در وب سایت ما تفریح کنند بنابراین اصرار داریم هر کس مسئولانه بازی کند . هدف از سیاست بازدارنده ما این است که تاثیرات منفی قمار را کاهش داده و روش بازی مسئولانه را ارتقا دهیم . بر این باوریم که ما مسئولیم از تجربه یک بازی لذت بخش وهیجان انگیز اطمینان حاصل کنیم اما هم زمان به یاد داشته باشیم کاربران ما ممکن است تاثیرات مالی و اجتماعی منفی از وابستگی به قمار بدست آورند.",
+      "description_2": "پول قرض کردن برای قمار ، هزینه کردن منابع مالی برای آن از بودجه و پولی که برای دیگر مصارف گذاشته ایم نه تنها عاقلانه نیست بلکه هدر دادن وقت است که میتواند مشکلات بزرگی را برای بازیکن و اطرافیانش به وجود آورد.",
+      "betting_rules": {
+        "title": "مطمئن شوید که شرط بندی فقط برای تفریح است نه از دست دادن کنترلتان ، و قوانین ساده ای را به شما میگوییم :",
+        "rule_1": "در قمار برای خود محدودیت قائل شده وهرگز پا را از آن فراتر نگذارید.",
+        "rule_2": "هنگام بازی فقط با پولی که از ابتدا در نظر گرفته بودید بازی کنید.",
+        "rule_3": "وقتی از زمان محدودی که در نظر داشتید فراتر رفتید ، بازی را متوقف ودیکر بازی نکنید.",
+        "rule_4": "هرگز پولی را باری نکنید که از عهده اش برنمی آیید.",
+        "rule_5": "به هیچ عنوان از پولی که برای مصارف دیگر نیاز دارید استفاده نکنید.",
+        "rule_6": "اگر تصمیم دارید کمتر بازی کرده یا بازی نکنید ،کوشش کنید تا بر تصمیم خود پا برجا بمانید.",
+        "rule_7": "از پرداخت پول خرد بیشتر یا باقیمانده پول در بازی خودداری کنید.",
+        "rule_8": "وقتی می بازید ، دوباره به بازی برنگردید تا برنده شوید.",
+        "rule_9": "از توجه به قمار وبازی به عنوان حلال مشکلاتتان بپرهیزید.",
+        "rule_10": "هرگز برای بازی پول قرض نکنید.",
+        "rule_11": "توجه داشته باشید پولی که برای قمار میدهید هزینه ایست که برای تفریحتان میپردازید.",
+        "rule_12": "به دوستان خود در مورد پولی که از دست داده اید و یا مدت زمان بازی دروغ نگویید.",
+        "rule_13": "اگر فکر میکنید بیش از حد پول و وقت هزینه میکنید از بقیه کمک بخواهید.",
+        "rule_14": "هرگز کار خود را به خاطر بازی ترک نکنید.",
+        "rule_15": "هرگز وقتی که احساس ناراحتی ، تنهایی ، کسالت و افسردگی میکنید بازی نکنید.",
+        "rule_16": "به راحتی به ما ایمیل بزنید و از مشکلات خود ما را آگاه کنید ممکن است به شما مقدار کمی قرض داده و یا حساب شما را برای مدت کوتاهی ببندیم."
+      }
+    },
+    "underage": {
+      "title": "افراد زیر سن و بتینگ :",
+      "description": "بازی کردن ، گشایش حساب ویا شرط بندی در سایت برای افراد زیر 18 سال ممنوع میباشد، شرکت به طور جدی به مشکلاتی از قبیل بازبینی چکهای الکترونیکی توجه دارد."
+    },
+    "casino": {
+      "title": "کازینو و بازی در سایت :",
+      "description": "تمام بازی های کازینو از سوی مقامات تایید شده و محافظ به هر گونه هک میباشد. همه ی شرط های بسته شده در کازینوی زنده بر روی سرور ارايه کنندگان آن قرار میگیرد و از هر گونه تقلبی جلو گیری میشود."
+    },
+    "fishing": {
+      "title": "فیشینگ :",
+      "description": "ما تنها سایت ضد فیشینگ هستیم و با آن مبارزه میکنیم."
+    }
+  },
+  "_agency": {
+    "title": "Agency",
+    "subtitle": "دریافت نماینگی پوکرنت راهی آسان برای درآمد بالا",
+    "description": "شما می توانید با معرفی ما به دیگران 20 درصد از سودی که سایت با بازی آنها به دست می آورد را دریافت کنید. اگر اینفلوئنسر هستید و فالور زیادی دارید، سایت یا وبلاگ دارید و یا از هر طریقی میتوانید ما را به دیگران معرفی کنید میتوانید از این طریق به درآمد بالایی دست یابید. دریافت پنل نماینگی بسیار ساده است برای اینکار کافیست با تیم پشتیبانی ما تماس بگیرید و درخواست خود را مطرح کنید ما به سرعت به شما پاسخ میدهیم و درخواست شما را بررسی میکنیم، پس از بررسی و در صورت تایید درخواست شما ما یک پنل در اختیار شما قرار میدهیم و شما مبتوانید به صورت لحظه ای کاربرانی که دعوت کرده اید درآمد حاصل از هر کاربر و... را مشاهده نمایید، همچنین میتواند به آسانی درآمد خود را برداشت نمایید."
+  }
+}
