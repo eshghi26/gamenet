@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'git@github.com:eshghi26/gamenet.git',
+                git url: 'https://github.com/eshghi26/gamenet.git',
                 branch: 'main',
                 credentialsId: 'mygitubpk'
             }
