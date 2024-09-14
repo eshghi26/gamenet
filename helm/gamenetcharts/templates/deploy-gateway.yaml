@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gamenetgatewaydeploy
+  labels:
+    app: gamenetgatewaydeploy
+spec:
+  selector:
+    matchLabels:
+      app: gamenetgatewaypod
+  replicas: 2
+  template: # Pod definition
+    metadata:
+      labels:
+        app: gamenetgatewaypod
+    spec:
+      containers:
+        - name: gamenetgatewaycontainer
+          image: eshghi26/gamenetgateway:latest
+          ports:
+            - name: gamenetgatewayport
+              containerPort: 5001
+      nodeSelector:
+        disktype: ssd # Run this command for each worker kubectl label nodes worker01 disktype=ssd
