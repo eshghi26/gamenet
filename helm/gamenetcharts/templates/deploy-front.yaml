@@ -18,7 +18,7 @@ spec:
         - name: gamenetfrontcontainer
           image: eshghi26/gamenetfront:latest
           ports:
-            - name: gamenetfrontport
+            - name: frontport
               containerPort: 3001
       nodeSelector:
         disktype: ssd # Run this command for each worker kubectl label nodes worker01 disktype=ssd

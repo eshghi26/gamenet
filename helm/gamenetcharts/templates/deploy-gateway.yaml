@@ -18,7 +18,7 @@ spec:
         - name: gamenetgatewaycontainer
           image: eshghi26/gamenetgateway:latest
           ports:
-            - name: gamenetgatewayport
+            - name: gatewayport
               containerPort: 5001
       nodeSelector:
         disktype: ssd # Run this command for each worker kubectl label nodes worker01 disktype=ssd

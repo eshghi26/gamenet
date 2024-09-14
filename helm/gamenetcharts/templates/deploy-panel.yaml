@@ -18,7 +18,7 @@ spec:
         - name: gamenetpanelcontainer
           image: eshghi26/gamenetpanel:latest
           ports:
-            - name: gamenetpanelport
+            - name: panelport
               containerPort: 4001
       nodeSelector:
         disktype: ssd # Run this command for each worker kubectl label nodes worker01 disktype=ssd
