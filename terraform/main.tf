@@ -4,7 +4,7 @@ provider "google" {
 }
 
 resource "google_container_cluster" "primary" {
-  name     = "my-gke-cluster"
+  name     = "gamenet-gke-cluster"
   location = "europe-west3-a"  # This is the zone where the control plane (master node) will be located.
 
   # Cluster-level settings
@@ -24,7 +24,7 @@ resource "google_container_node_pool" "worker_pool_1" {
   location   = "europe-west3-a"  # This refers to the master node's location
 
   node_config {
-    machine_type = "e2-micro"
+    machine_type = "e2-medium"
     oauth_scopes = [
       "https://www.googleapis.com/auth/cloud-platform",
     ]
@@ -43,7 +43,7 @@ resource "google_container_node_pool" "worker_pool_2" {
   location   = "europe-west3-a"  # This refers to the master node's location
 
   node_config {
-    machine_type = "e2-micro"
+    machine_type = "e2-medium"
     oauth_scopes = [
       "https://www.googleapis.com/auth/cloud-platform",
     ]
