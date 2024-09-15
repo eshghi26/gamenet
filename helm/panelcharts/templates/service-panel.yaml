@@ -10,5 +10,5 @@ spec:
   ports:
     - protocol: TCP
       port: 4000 # App will be accessable on the port 80 of External IP
-      targetPort: 4001
+      targetPort: 80
       # nodePort: 30001 # App will be accessable from http://Master_Node_IP:300001 for NodePort Service
