@@ -17,6 +17,7 @@ spec:
       containers:
         - name: gamenetfrontcontainer
           image: eshghi26/gamenetfront:latest
+          imagePullPolicy: Always
           ports:
             - name: frontport
               containerPort: 80

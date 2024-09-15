@@ -17,6 +17,7 @@ spec:
       containers:
         - name: gamenetpanelcontainer
           image: eshghi26/gamenetpanel:latest
+          imagePullPolicy: Always
           ports:
             - name: panelport
               containerPort: 80
