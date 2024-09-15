@@ -48,7 +48,7 @@ pipeline {
             agent {label 'KOPS'}
                 steps {
                 // Put this command in sudoers file jenkins ALL=(ALL) NOPASSWD: /usr/local/bin/helm
-                sh "sudo helm upgrade --install --force gamenet-stack helm/gamenetcharts"
+                sh "sudo helm upgrade --install --force gateway-stack helm/gatewaycharts"
                 }
         } 
     }

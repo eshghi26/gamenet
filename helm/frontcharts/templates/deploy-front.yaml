@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: gamenetfrontdeploy
+  labels:
+    app: gamenetfrontdeploy
+spec:
+  selector:
+    matchLabels:
+      app: gamenetfrontpod
+  replicas: 2
+  template: # Pod definition
+    metadata:
+      labels:
+        app: gamenetfrontpod
+    spec:
+      containers:
+        - name: gamenetfrontcontainer
+          image: eshghi26/gamenetfront:latest
+          ports:
+            - name: frontport
+              containerPort: 3001
+      nodeSelector:
+        disktype: ssd # Run this command for each worker kubectl label nodes worker01 disktype=ssd
